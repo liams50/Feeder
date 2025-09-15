@@ -19,7 +19,6 @@ public class Feeder {
             currentFood-=eaten;
         }
         if (currentFood < 0) currentFood = 0;
-
     }
 
     public int simulateManyDays(int numBirds, int numDays){
