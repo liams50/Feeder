@@ -1,4 +1,4 @@
-public class Feeder {
+public class Feeder{
 
     private int currentFood;
 
@@ -31,5 +31,4 @@ public class Feeder {
         }
         return days;
     }
-
 }
